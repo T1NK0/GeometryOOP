@@ -1,0 +1,11 @@
+C:\Users\Proed\source\repos\GeometriOOP\GeometriOOP\bin\Debug\netcoreapp3.1\GeometriOOP.exe
+C:\Users\Proed\source\repos\GeometriOOP\GeometriOOP\bin\Debug\netcoreapp3.1\GeometriOOP.deps.json
+C:\Users\Proed\source\repos\GeometriOOP\GeometriOOP\bin\Debug\netcoreapp3.1\GeometriOOP.runtimeconfig.json
+C:\Users\Proed\source\repos\GeometriOOP\GeometriOOP\bin\Debug\netcoreapp3.1\GeometriOOP.runtimeconfig.dev.json
+C:\Users\Proed\source\repos\GeometriOOP\GeometriOOP\bin\Debug\netcoreapp3.1\GeometriOOP.dll
+C:\Users\Proed\source\repos\GeometriOOP\GeometriOOP\bin\Debug\netcoreapp3.1\GeometriOOP.pdb
+C:\Users\Proed\source\repos\GeometriOOP\GeometriOOP\obj\Debug\netcoreapp3.1\GeometriOOP.csprojAssemblyReference.cache
+C:\Users\Proed\source\repos\GeometriOOP\GeometriOOP\obj\Debug\netcoreapp3.1\GeometriOOP.AssemblyInfoInputs.cache
+C:\Users\Proed\source\repos\GeometriOOP\GeometriOOP\obj\Debug\netcoreapp3.1\GeometriOOP.AssemblyInfo.cs
+C:\Users\Proed\source\repos\GeometriOOP\GeometriOOP\obj\Debug\netcoreapp3.1\GeometriOOP.dll
+C:\Users\Proed\source\repos\GeometriOOP\GeometriOOP\obj\Debug\netcoreapp3.1\GeometriOOP.pdb
